@@ -1,0 +1,8 @@
+{
+    "name" : "unique",
+    "main" : "index.js",
+    "type" : "module",
+    "scripts" : {
+        "dev" : "node index.js"
+    }
+}
